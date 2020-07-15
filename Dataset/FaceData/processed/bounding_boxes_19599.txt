@@ -1,0 +1,31 @@
+Dataset/FaceData/processed\Chipu\download (1).png 52 31 140 142
+Dataset/FaceData/processed\Chipu\download (5).png 61 22 171 161
+Dataset/FaceData/processed\Chipu\download (3).png 55 36 125 121
+Dataset/FaceData/processed\Chipu\download (2).png 62 17 142 119
+Dataset/FaceData/processed\Chipu\download (4).png 123 0 204 102
+Dataset/FaceData/processed\Chipu\chi-pu-2020-chi-muon-minh-se-kiem-duoc-nhieu-tien-hon-nam-2019-4ef43dc6.png 412 229 655 527
+Dataset/FaceData/processed\Chipu\download.png 54 27 124 115
+Dataset/FaceData/processed\Chipu\images (2).png 11 35 138 198
+Dataset/FaceData/processed\Chipu\images.png 126 20 206 120
+Dataset/FaceData/processed\Chipu\images (1).png 85 2 165 98
+Dataset/FaceData/processed\SonTung\10.png 332 230 417 340
+Dataset/FaceData/processed\SonTung\5.png 43 5 154 135
+Dataset/FaceData/processed\SonTung\9.png 299 69 522 293
+Dataset/FaceData/processed\SonTung\7.png 78 8 200 158
+Dataset/FaceData/processed\SonTung\4.png 124 9 220 120
+Dataset/FaceData/processed\SonTung\8.png 163 98 261 203
+Dataset/FaceData/processed\SonTung\6.png 80 1 147 79
+Dataset/FaceData/processed\SonTung\3.png 61 11 141 103
+Dataset/FaceData/processed\SonTung\1.png 56 22 169 156
+Dataset/FaceData/processed\SonTung\index.png 79 15 158 111
+Dataset/FaceData/processed\SonTung\2.png 104 4 194 116
+Dataset/FaceData/processed\HuuThanh\FB_IMG_1557929715317.png 105 41 189 134
+Dataset/FaceData/processed\HuuThanh\FB_IMG_1557929702136.png 60 39 343 417
+Dataset/FaceData/processed\HuuThanh\IMG_20190406_101732_609.png 158 0 447 333
+Dataset/FaceData/processed\HuuThanh\IMG_20190612_165448-01.png 103 109 342 406
+Dataset/FaceData/processed\HuuThanh\IMG_20190613_024303-01.png 128 128 304 339
+Dataset/FaceData/processed\HuuThanh\1522564510509.png 181 91 431 414
+Dataset/FaceData/processed\HuuThanh\IMG_20190612_165223-01.png 150 78 393 396
+Dataset/FaceData/processed\HuuThanh\IMG_20191204_211843.png 346 294 450 421
+Dataset/FaceData/processed\HuuThanh\FB_IMG_1576330324164.png 119 131 266 311
+Dataset/FaceData/processed\HuuThanh\FB_IMG_1555095387688.png 141 53 381 359
